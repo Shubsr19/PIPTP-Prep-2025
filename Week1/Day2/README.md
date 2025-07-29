@@ -1,4 +1,4 @@
-# Week1 - Day 1
+# Week1 - Day 2
 
 ## Problems
 - Problem 1
