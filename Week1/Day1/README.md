@@ -13,4 +13,4 @@
 - Problem 10 -
 - Problem 11 -
 - Problem 12 -
-- Problem 13 -
+- Problem 13 - https://github.com/Shubsr19/PIPTP-Prep-2025/blob/main/Week1/Day1/solution13.md
