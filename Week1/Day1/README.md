@@ -10,7 +10,7 @@
 - Problem 7 -
 - Problem 8 -
 - Problem 9 -
-- Problem 10 -
-- Problem 11 -
-- Problem 12 -
+- Problem 10 - https://github.com/Shubsr19/PIPTP-Prep-2025/blob/main/Week1/Day1/solution10.md
+- Problem 11 - https://github.com/Shubsr19/PIPTP-Prep-2025/blob/main/Week1/Day1/solution11.md
+- Problem 12 - https://github.com/Shubsr19/PIPTP-Prep-2025/blob/main/Week1/Day1/solution12.md
 - Problem 13 - https://github.com/Shubsr19/PIPTP-Prep-2025/blob/main/Week1/Day1/solution13.md
