@@ -1,4 +1,4 @@
-public class Comparison {
+public class First {
     public static void main(String[] args) {
         int x = 5, y = 3, z;
 
