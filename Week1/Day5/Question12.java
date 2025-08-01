@@ -3,6 +3,6 @@ public class Question12 {
         int x = 11;
         int y = 4;
         int result = (x - y + 121) % x;
-        System.out.println("Q12 Output: " + result); 
+        System.out.println("Q12 Output: " + result); //7
     }
 }

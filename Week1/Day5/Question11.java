@@ -3,6 +3,6 @@ public class Question11 {
         int x = 5;
         int y = 3;
         int z = x + y * x - 2;
-        System.out.println("Q11 Output: " + z); 
+        System.out.println("Q11 Output: " + z);  //18
     }
 }
