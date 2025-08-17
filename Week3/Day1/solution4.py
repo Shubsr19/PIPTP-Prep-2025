@@ -1,4 +1,4 @@
 class UserMainCode(object):
     @classmethod
-    def secondLastDigit(cls, input1):
-        return abs(input1 // 10) % 10
+    def sumOfLastDigits(cls, input1, input2):
+        return (abs(input1) % 10) + (abs(input2) % 10)
